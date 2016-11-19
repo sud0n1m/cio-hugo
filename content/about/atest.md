@@ -1,6 +1,0 @@
-+++
-date = "2016-11-18T16:25:32-08:00"
-draft = false
-title = "atest"
-
-+++
