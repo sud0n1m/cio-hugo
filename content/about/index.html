@@ -1,0 +1,7 @@
+<h1>Hello world!</h1>
+
+<ul>
+{{ range $.Site.Data.team }}
+<li>{{ .name }} <img src="{{ .img }}"/></li>
+{{ end }}
+</ul>
