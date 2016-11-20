@@ -1,5 +1,6 @@
-name: "John Allison"
-title: "CTO"
+---
+name: John Allison
+title: CTO
 img: "/img/John-A-Photo.jpg"
 twitter: jrallison
 active: true
