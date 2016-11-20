@@ -1,174 +1,143 @@
+---
 colin:
-  name: "Colin Nederkoorn"
-  title: "CEO"
+  name: Colin Nederkoorn
+  title: CEO
   img: "/img/Colin-N.jpg"
   twitter: alphacolin
-
 john:
-  name: "John Allison"
-  title: "CTO"
+  name: John Allison
+  title: CTO
   img: "/img/John-A-Photo.jpg"
   twitter: jrallison
-  
 diana:
-  name: "Diana Potter"
-  title: "Senior Director of Customer Success"
+  name: Diana Potter
+  title: Senior Director of Customer Success
   img: "/img/Diana-P.jpg"
   twitter: drpotter
-    
 alvin:
-  name: "Alvin Crespo"
-  title: "Senior Frontend Engineer"
+  name: Alvin Crespo
+  title: Senior Frontend Engineer
   img: "/img/Alvin-C.jpg"
   twitter: alvincrespo
-
 stephen:
-  name: "Stephen Young"
-  title: "Senior Backend Engineer"
+  name: Stephen Young
+  title: Senior Backend Engineer
   img: "/img/Stephen.jpg"
   twitter: hownowstephen
-
 jonq:
-  name: "Jon Quach"
-  title: "UI Developer"
+  name: Jon Quach
+  title: UI Developer
   img: "/img/Jon-Q.jpg"
   twitter: itsjonq
-
 rachel:
-  name: "Rachel Baskerville"
-  title: "People Ops"
+  name: Rachel Baskerville
+  title: People Ops
   img: "/img/Rachel.jpg"
   twitter: rachelroyall
-
 janet:
-  name: "Janet Choi"
-  title: "Marketer"
+  name: Janet Choi
+  title: Marketer
   img: "/img/Janet-C.jpg"
   twitter: lethargarian
-
 livia:
-  name: "Livia Sarban"
-  title: "Release Analyst"
+  name: Livia Sarban
+  title: Release Analyst
   img: "/img/Livia-S.jpg"
   twitter: liviasarban
-
 tash:
-  name: "Tash Reed"
-  title: "Customer Success Manager"
+  name: Tash Reed
+  title: Customer Success Manager
   img: "/img/tash.jpg"
-
 justinh:
-  name: "Justin Hieggelke"
-  title: "VP of Customer Success"
+  name: Justin Hieggelke
+  title: VP of Customer Success
   img: "/img/Justin-H.jpg"
-
 matthew:
-  name: "Matthew Newhook"
-  title: "Director of Engineering"
+  name: Matthew Newhook
+  title: Director of Engineering
   img: "/img/Matthew-N-002.jpg"
-
 alisdair:
-  name: "Alisdair McDiarmid"
-  title: "Senior Software Engineer"
+  name: Alisdair McDiarmid
+  title: Senior Software Engineer
   img: "/img/Alisdair-M.jpg"
-
 justinb:
-  name: "Justin Brown"
-  title: "Senior Frontend Engineer"
+  name: Justin Brown
+  title: Senior Frontend Engineer
   img: "/img/jb.jpg"
-
 ian:
-  name: "Ian Dawes"
-  title: "Senior Scaling Engineer"
+  name: Ian Dawes
+  title: Senior Scaling Engineer
   img: "/img/IanD.jpg"
-
 mike:
-  name: "Mike Stefanko"
-  title: "Head of Product"
+  name: Mike Stefanko
+  title: Head of Product
   img: "/img/stefanko.jpg"
-
 matt:
-  name: "Matt Cox"
-  title: "Engineer"
+  name: Matt Cox
+  title: Engineer
   img: "/img/MattC.jpg"
-
 jesse:
-  name: "Jesse Appleby"
-  title: "Account Executive"
+  name: Jesse Appleby
+  title: Account Executive
   img: "/img/JesseA.jpg"
-
 hoon:
-  name: "Hoon Park"
-  title: "Senior Technical Support Manager"
+  name: Hoon Park
+  title: Senior Technical Support Manager
   img: "/img/Hoon-P.jpg"
-
 julie:
-  name: "Julie Beynon"
-  title: "Marketing Data Analyst"
+  name: Julie Beynon
+  title: Marketing Data Analyst
   img: "/img/Julie-B.jpg"
-
 sonja:
-  name: "Sonja Beardsley"
-  title: "Office Manager"
+  name: Sonja Beardsley
+  title: Office Manager
   img: "/img/Sonja-B.jpg"
-
 deandre:
-  name: "DeAndre Harris"
-  title: "Technical Support Specialist"
+  name: DeAndre Harris
+  title: Technical Support Specialist
   img: "/img/DeAndre.jpg"
-
 sarah:
-  name: "Sarah Burgess"
-  title: "Technical Support Specialist"
+  name: Sarah Burgess
+  title: Technical Support Specialist
   img: "/img/Sarah-B.jpg"
-  
 johann:
-  name: "Johann Hannesson"
-  title: "Product Manager"
+  name: Johann Hannesson
+  title: Product Manager
   img: "/img/Johann-H.jpg"
-
 jatin:
-  name: "Jatin Nagpal"
-  title: "Scaling Engineer"
+  name: Jatin Nagpal
+  title: Scaling Engineer
   img: "/img/jatin.jpg"
-  
 winfield:
-  name: "Winfield Jackson"
-  title: "Sales Development Representative"
+  name: Winfield Jackson
+  title: Sales Development Representative
   img: "/img/winfield.jpg"
-
 david:
-  name: "David Greenberg"
-  title: "CMO"
+  name: David Greenberg
+  title: CMO
   img: "/img/david.jpg"
-
 ivana:
-  name: "Ivana McConnell"
-  title: "Senior UI/UX Designer"
+  name: Ivana McConnell
+  title: Senior UI/UX Designer
   img: "/img/ivana.jpg"
-
 bill:
-  name: "Bill Miksich"
-  title: "Director of Demand Generation"
+  name: Bill Miksich
+  title: Director of Demand Generation
   img: "/img/bill.jpg"
-
 kate:
-  name: "Kate White"
-  title: "Frontend Engineer"
+  name: Kate White
+  title: Frontend Engineer
   img: "/img/kate.jpg"
-
 reema:
-  name: "Reema Al-Zaben"
-  title: "Product Manager"
+  name: Reema Al-Zaben
+  title: Product Manager
   img: "/img/reema.jpg"
-
 wendy:
-  name: "Wendy Teo"
-  title: "Technical Support Engineer"
+  name: Wendy Teo
+  title: Technical Support Engineer
   img: "/img/wendy.jpg"
-
 joe:
-  name: "Joe Purdy"
-  title: "Technical Support Engineer"
+  name: Joe Purdy
+  title: Technical Support Engineer
   img: "/img/joe.jpg"
   active: 
