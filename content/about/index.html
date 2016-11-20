@@ -2,6 +2,12 @@
 
 <ul>
 {{ range $.Site.Data.team }}
-<li>{{ .name }} <img src="{{ .img }}"/></li>
+  {{ if .active }}
+  <li>{{ .name }} <img src="{{ .img }}"/> {{ .active }}  {{ .twitter }}</li>
+  {{ end}}
 {{ end }}
 </ul>
+
+
+
+

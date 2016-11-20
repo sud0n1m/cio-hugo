@@ -171,3 +171,4 @@ joe:
   name: "Joe Purdy"
   title: "Technical Support Engineer"
   img: "/img/joe.jpg"
+  active: 
